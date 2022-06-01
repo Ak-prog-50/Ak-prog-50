@@ -11,7 +11,7 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-prog-50" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-prog-50&exclude_repo=pandas_so_survey,hardhat_fcc&hide=html,css,shell,EJS" />
+  <img align="left" src="https://github-readme-stats-ak-prog-50.vercel.app/api/top-langs/?username=ak-prog-50&exclude_repo=pandas_so_survey,hardhat_fcc&hide=html,css,shell,EJS&langs_count=4" />
 </a> -->
 
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
