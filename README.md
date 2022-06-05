@@ -10,8 +10,8 @@
 <!-- <a>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ak-prog-50" />
 </a>
-<a href="https://github-readme-stats-ak-prog-50.vercel.app/api/top-langs/?username=ak-prog-50&hide=html,css,shell,EJS&langs_count=5">
-  <img align="left" src="https://github-readme-stats-ak-prog-50.vercel.app/api/top-langs/?username=ak-prog-50&hide=html,css,shell,EJS&langs_count=5" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-prog-50&hide=html,css,shell,EJS&langs_count=5" />
 </a> -->
 
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> -->
