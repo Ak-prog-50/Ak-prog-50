@@ -1,6 +1,6 @@
 # Akalanka Pathirage
 
-#### Avid Learner | Web & Blockchain Developer
+#### [Profile](https://www.linkedin.com/in/akalanka-pathirage/)
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ak-prog-50) 
